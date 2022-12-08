@@ -1,0 +1,26 @@
+<annotation>
+	<folder>with_mask</folder>
+	<filename>Image_20 (5).jpg</filename>
+	<path>D:\fm-20221009T091402Z-001\fm\with_mask\Image_20 (5).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>123</ymin>
+			<xmax>198</xmax>
+			<ymax>207</ymax>
+		</bndbox>
+	</object>
+</annotation>

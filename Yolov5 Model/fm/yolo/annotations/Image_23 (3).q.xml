@@ -1,0 +1,50 @@
+<annotation>
+	<folder>with_mask</folder>
+	<filename>Image_23 (3).q.jpg</filename>
+	<path>D:\fm-20221009T091402Z-001\fm\with_mask\Image_23 (3).q.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>1</ymin>
+			<xmax>73</xmax>
+			<ymax>30</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>48</ymin>
+			<xmax>207</xmax>
+			<ymax>101</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>136</ymin>
+			<xmax>53</xmax>
+			<ymax>176</ymax>
+		</bndbox>
+	</object>
+</annotation>
